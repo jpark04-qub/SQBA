@@ -5,6 +5,9 @@ Pytorch code for [Hard-Label based Small Query Black-box Adversarial Attack](htt
 - pytorch
 - numpy
 
+# Pretrained Model
+Networks and their weights can be downloaded fro, (https://github.com/huyvnphan/PyTorch_CIFAR10?tab=readme-ov-file)
+
 # Citation
 If you use SQBA for your research, please cite the paper:
 ```
