@@ -1,5 +1,5 @@
 # SQBA : Hard-Label based Small Query Black-box Adversarial Attack
-Pytorch code for [Hard-Label based Small Query Black-box Adversarial Attack](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Hard-Label_Based_Small_Query_Black-Box_Adversarial_Attack_WACV_2024_paper.pdf)
+Pytorch code for WACV 2024 paper [Hard-Label based Small Query Black-box Adversarial Attack](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Hard-Label_Based_Small_Query_Black-Box_Adversarial_Attack_WACV_2024_paper.pdf)
 
 # Dependencies
 - pytorch
