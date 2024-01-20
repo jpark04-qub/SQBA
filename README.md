@@ -11,7 +11,7 @@ As cited in the paper, networks and their weights can be downloaded from (https:
 
 # Setup and run
 - Create "model/cifar10" and "data" directories for weights and dataset respectively
-- Download weights for resnet18.pt and mobilenet_v2.pt
+- Download weights resnet18.pt and mobilenet_v2.pt
 - Download cifar10 dataset
 - run attack_tb.py
 
