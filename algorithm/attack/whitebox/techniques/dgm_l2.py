@@ -5,6 +5,11 @@ import torch.nn as nn
 from ...base import Base
 from ...utility import Utility as util
 
+"""
+Jeonghwan Park, Niall McLaughlin, Paul Miller
+Hard-label based small query black-box adversarial attack (Supplementary)
+IEEE/CVF Winter Conference on Applications of Computer Vision, 2024
+"""
 
 class DGM_L2(Base):
     def __init__(self, device, model, eps=0.01, alp=0.005, iter=100, c=0.3, stop=False, min=0, max=1):
