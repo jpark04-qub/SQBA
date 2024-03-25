@@ -6,6 +6,11 @@ import matplotlib.pyplot as plt
 from ...base import Base
 from ...utility import Utility as Util
 
+"""
+Jeonghwan Park, Niall McLaughlin, Paul Miller
+Hard-label based small query black-box adversarial attack (Supplementary)
+IEEE/CVF Winter Conference on Applications of Computer Vision, 2024
+"""
 
 class DGM_Inf(Base):
     def __init__(self, device, model, eps=0.01, alp=0.01, iter=300, c=0.3, stop=False, min=0, max=1):
